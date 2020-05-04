@@ -1,0 +1,19 @@
+Race,Ethnicity,Cases,Deaths,Date
+Black Or African American,Hispanic/Latino,111,4,04/23/2020
+Black Or African American,Non-Hispanic/Latino,5355,446,04/23/2020
+Black Or African American,Unknown,1277,12,04/23/2020
+White,Hispanic/Latino,565,15,04/23/2020
+White,Non-Hispanic/Latino,3733,331,04/23/2020
+White,Unknown,772,9,04/23/2020
+American Indian/Native American,Hispanic/Latino,2,0,04/23/2020
+American Indian/Native American,Non-Hispanic/Latino,15,1,04/23/2020
+American Indian/Native American,Unknown,1,0,04/23/2020
+Asian,Hispanic/Latino,6,0,04/23/2020
+Asian,Non-Hispanic/Latino,196,11,04/23/2020
+Asian,Unknown,50,0,04/23/2020
+Other,Hispanic/Latino,483,9,04/23/2020
+Other,Non-Hispanic/Latino,121,1,04/23/2020
+Other,Unknown,129,0,04/23/2020
+Unknown,Hispanic/Latino,177,1,04/23/2020
+Unknown,Non-Hispanic/Latino,283,4,04/23/2020
+Unknown,Unknown,8236,28,04/23/2020

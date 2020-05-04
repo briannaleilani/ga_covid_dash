@@ -1,0 +1,4 @@
+---
+applications:
+ - name: b-ga-covid-dash-2
+   memory: 256M
